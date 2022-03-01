@@ -1,1 +1,1 @@
-Git lesson readme
+STARTING
